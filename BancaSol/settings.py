@@ -25,7 +25,9 @@ SECRET_KEY = 'django-insecure-6q=bd730(9fy0#in$kvn5#+hc)9^x4jp$5w8!-c!oxcf8fzka^
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['bancaluna.onrender.com', 'localhost', '127.0.0.1']
+
+
 
 
 # Application definition
